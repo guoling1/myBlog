@@ -1,0 +1,20 @@
+{
+  "name": "myBlog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "guoling1 <646626114@qq.con>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/guoling1/myBlog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
